@@ -1,0 +1,30 @@
+C:\Users\user\Desktop\Parallel Computing\Assignment B\Assignment B\obj\Debug\Assignment B.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Parallel Computing\Assignment B\Assignment B\obj\Debug\Assignment_B.Form1.resources
+C:\Users\user\Desktop\Parallel Computing\Assignment B\Assignment B\obj\Debug\Assignment_B.Properties.Resources.resources
+C:\Users\user\Desktop\Parallel Computing\Assignment B\Assignment B\obj\Debug\Assignment B.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Parallel Computing\Assignment B\Assignment B\obj\Debug\Assignment B.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Parallel Computing\Assignment B\Assignment B\bin\Debug\Assignment B.exe.config
+C:\Users\user\Desktop\Parallel Computing\Assignment B\Assignment B\bin\Debug\Assignment B.exe
+C:\Users\user\Desktop\Parallel Computing\Assignment B\Assignment B\bin\Debug\Assignment B.pdb
+C:\Users\user\Desktop\Parallel Computing\Assignment B\Assignment B\obj\Debug\Assignment B.exe
+C:\Users\user\Desktop\Parallel Computing\Assignment B\Assignment B\obj\Debug\Assignment B.pdb
+C:\Users\user\Desktop\Assignment B\Assignment B\bin\Debug\Assignment B.exe.config
+C:\Users\user\Desktop\Assignment B\Assignment B\bin\Debug\Assignment B.exe
+C:\Users\user\Desktop\Assignment B\Assignment B\bin\Debug\Assignment B.pdb
+C:\Users\user\Desktop\Assignment B\Assignment B\obj\Debug\Assignment B.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Assignment B\Assignment B\obj\Debug\Assignment_B.Form1.resources
+C:\Users\user\Desktop\Assignment B\Assignment B\obj\Debug\Assignment_B.Properties.Resources.resources
+C:\Users\user\Desktop\Assignment B\Assignment B\obj\Debug\Assignment B.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Assignment B\Assignment B\obj\Debug\Assignment B.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Assignment B\Assignment B\obj\Debug\Assignment B.exe
+C:\Users\user\Desktop\Assignment B\Assignment B\obj\Debug\Assignment B.pdb
+F:\Finished assignments\PDS\Assignment PDS B\Assignment B\bin\Debug\Assignment B.exe.config
+F:\Finished assignments\PDS\Assignment PDS B\Assignment B\bin\Debug\Assignment B.exe
+F:\Finished assignments\PDS\Assignment PDS B\Assignment B\bin\Debug\Assignment B.pdb
+F:\Finished assignments\PDS\Assignment PDS B\Assignment B\obj\Debug\Assignment B.csproj.AssemblyReference.cache
+F:\Finished assignments\PDS\Assignment PDS B\Assignment B\obj\Debug\Assignment_B.Form1.resources
+F:\Finished assignments\PDS\Assignment PDS B\Assignment B\obj\Debug\Assignment_B.Properties.Resources.resources
+F:\Finished assignments\PDS\Assignment PDS B\Assignment B\obj\Debug\Assignment B.csproj.GenerateResource.cache
+F:\Finished assignments\PDS\Assignment PDS B\Assignment B\obj\Debug\Assignment B.csproj.CoreCompileInputs.cache
+F:\Finished assignments\PDS\Assignment PDS B\Assignment B\obj\Debug\Assignment B.exe
+F:\Finished assignments\PDS\Assignment PDS B\Assignment B\obj\Debug\Assignment B.pdb
